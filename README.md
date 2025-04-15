@@ -38,10 +38,10 @@ j: Indeks kolom dari matrix2.
 
 z: Indeks elemen yang dikalikan di baris k dan kolom j.
 
-loop k : Untuk mengakses setiap baris dalam matriks A dan append kolom baru untuk Matriks C.
+loop k : Looping untuk setiap baris dari matrix.
 
 
-loop j : Untuk mengakses setiap kolom dalam matriks B dan append nilai baru ke Matriks C.
+loop j : Looping untuk setiap kolom dari matrix2.
 
 
 loop z : Untuk menghitung perkalian matriks.
